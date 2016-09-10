@@ -5,5 +5,6 @@ This is a floder which contain some algorthm written in javascrit. Although some
 
 ### schedule
 
-* 2016.09.10
+* 2016.09.10    
+
 quick sort
