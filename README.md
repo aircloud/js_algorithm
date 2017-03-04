@@ -8,3 +8,7 @@ This is a floder which contains some algorthm written in javascrit. Although som
 * 2016.09.10    
 
 quick sort
+
+* 2017.03.03
+
+add NFAtoBFA.js(can transform a NFA to a BFA)

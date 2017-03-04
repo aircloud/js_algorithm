@@ -31,7 +31,6 @@ function switch3(a,left,right){
     return a[right-1];
 }
 
-
 //主干
 function qsort_main(target,begin,end){
 
@@ -73,9 +72,7 @@ function qsort_main(target,begin,end){
         if(target[begin]>target[end])
         switch2(target,begin,end);
     }
-
 }
-
 
 //输出函数
 function qsort(target){
